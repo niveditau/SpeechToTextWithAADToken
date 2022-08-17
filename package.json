@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/identity": "^2.1.0",
+    "@azure/msal-browser": "^2.28.0",
+    "dotenv": "^16.0.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.22.0"
+  }
+}
