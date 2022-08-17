@@ -3,6 +3,10 @@ Using Azure Speech SDK with Azure Active Directory Authentication
 
 This is a simple node application to demostrate how to use Speech SDK for transcription with Azure Active Directory token.
 
+Prerequisites
+1. A Speech Service resource in Azure with custom domain.
+2. A Service Principal for Cognitive Services access permissions
+
 How to run this code
 1. Clone the repository
 2. Create a .env file in SpeechToTextWithAADToken directory and create a variable RESOURCE_ID="<your speech resource ID>" in that file and set your speech resource ID
